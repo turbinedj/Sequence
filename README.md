@@ -1,3 +1,3 @@
 # Sequence
 Editorial sequences..
-.
+...
